@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DDelarosa00
-- 👀 I’m interested in 
+- 👀 I’m interested in Creating Bots
 - 🌱 I’m currently learning Python
 
 <!---
