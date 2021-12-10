@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DDelarosa00
 - 👀 I’m interested in 
-- 🌱 I’m currently learning Pytho
+- 🌱 I’m currently learning Python
 
 <!---
 DDelarosa00/DDelarosa00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
